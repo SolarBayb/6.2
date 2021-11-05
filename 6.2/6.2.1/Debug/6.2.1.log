@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Olga\source\repos\6.2\6.2.1\Source.cpp(7,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Olga\source\repos\6.2\6.2.1\Source.cpp(14,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Olga\source\repos\6.2\6.2.1\Source.cpp(27,26): warning C4018: '<': signed/unsigned mismatch
+  6.2.1.vcxproj -> C:\Users\Olga\source\repos\6.2\Debug\6.2.1.exe
